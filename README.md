@@ -10,3 +10,7 @@ Parts of this also uses SASS to be consistent with future projects.
 ## On Webpage
 
 [Custom Grid](https://sanjula8.github.io/CustomGrid/)
+
+### Preview
+
+![Image of Yaktocat](img/screenshot.png)
